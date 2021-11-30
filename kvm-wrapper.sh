@@ -1,7 +1,7 @@
 #!/bin/bash 
 set -e
 #set -x
-
+# This isn't written by me, I can't find the orginal website from where I copied this.
 # Simple script to create a KVM VM for a user session not root.
 # VARS KVM_VOLS Set this to your volume path.
 # Mine is set in my shell profile.
